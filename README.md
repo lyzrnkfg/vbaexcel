@@ -9,7 +9,9 @@ excel2007
 
 # 介绍下基本用法
 文件格式修改为xlsm: excel2007 xlxs格式不支持宏命令只能修改表数据
+
 我是日文系统中文乱码: 修改了sheet页名字请勿动
+
 在sheet页method中生成了一个按钮click点击即可会自动跳的sheet页result
 
 我试了下基本符合要求 
